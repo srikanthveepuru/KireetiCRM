@@ -12,8 +12,6 @@ public class Sample{
 	
 	public static int addition(int x,int y) {
 		int z=x+y;
-	System.out.println("In Addition Method");
-	System.out.println("In Addition Method1");
 		return z;
 	}
 }
